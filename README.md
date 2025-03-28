@@ -1,7 +1,8 @@
 ## Hello there!
 
-- 🌱 I am a junior at Seattle Pacific University
+- 🌱 Junior undergrad student at Seattle Pacific University
 - 📚 Clinical and counseling psychology major with a minor in data analytics
+- 🔎 Researching family dynamics at SPU's Child and Adolescent Lab
 
 <!--
 **MateoCuadros/MateoCuadros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
